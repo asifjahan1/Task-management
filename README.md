@@ -1,5 +1,9 @@
-# Assignment 1: Design only the Homescreen of this figma design-
-https://www.figma.com/design/nWTUc8uLkCY4gPp393ET24/UIP-TV?node-id=0-1&p=f&t=DMdZDJZErAKkOPPm-0
+# Assignment 2: Fetching Data from a REST API
+
+
+https://github.com/user-attachments/assets/70a82c3a-ede6-4e71-a14b-c7d3ad39b714
+
+
 
 
 # Flutter API & Hive App
