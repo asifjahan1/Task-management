@@ -63,11 +63,11 @@ class HomeScreen extends StatelessWidget {
                     },
                   ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: postProvider.fetchPosts,
-        backgroundColor: Colors.blue,
-        child: const Icon(Icons.refresh, color: Colors.white),
-      ),
+      // floatingActionButton: FloatingActionButton(
+      //   onPressed: postProvider.fetchPosts,
+      //   backgroundColor: Colors.blue,
+      //   child: const Icon(Icons.refresh, color: Colors.white),
+      // ),
     );
   }
 }
