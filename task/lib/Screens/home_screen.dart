@@ -24,6 +24,7 @@ class HomeScreen extends StatelessWidget {
       body: RefreshIndicator(
         onRefresh: postProvider.refreshPosts,
         triggerMode: RefreshIndicatorTriggerMode.onEdge,
+        color: Colors.white,
         edgeOffset: 1.0,
         displacement: 40,
         strokeWidth: 3,
